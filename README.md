@@ -1,3 +1,10 @@
+> [!IMPORTANT]
+> **Moved into the [arsenal](https://github.com/dtch1997/arsenal) monorepo**
+> (2026-07-10) as [`packages/bellhop`](https://github.com/dtch1997/arsenal/tree/main/packages/bellhop),
+> history preserved. Install from there:
+> `pip install "git+https://github.com/dtch1997/arsenal#subdirectory=packages/bellhop"`.
+> This repo is archived; development continues in arsenal.
+
 # bellhop
 
 **Check your code into an ephemeral box, run it, bring the results back, and
